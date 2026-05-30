@@ -1,0 +1,6 @@
+{
+  "name": "Intermediação de Serviços",
+  "description": "Plataforma de intermediação de serviços com interface WhatsApp e gestão de personas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
